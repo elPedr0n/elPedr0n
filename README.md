@@ -20,5 +20,5 @@ I'm a Computer Science student at **Federal University of Rio Grande do Sul (UFR
 
 #
 
-If you want to contact me you can reach me by <a href="mailto:phmajacinto@inf.ufrgs.br">e-mail</a> or <a href="https://www.instagram.com/pedrohenryk_ykn/">Instagram</a>.
+If you want to contact me you can do so by <a href="mailto:phmajacinto@inf.ufrgs.br">e-mail</a> or <a href="https://www.instagram.com/pedrohenryk_ykn/">Instagram</a>.
 
