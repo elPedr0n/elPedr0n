@@ -2,7 +2,7 @@
 
 **`Digital Architect`**
 
-I'm a Computer Science student at **Federal University of Rio Grande do Sul (UFRGS)** building my own view of the world in a digital way. My areas of interests includes **Competitive Programming, Quantum Computing and Data Science**. 
+I'm a Computer Science student at **Federal University of Rio Grande do Sul (UFRGS)** building my own view of the world in a digital way. My areas of interests includes **Competitive Programming, Image Processing, Data Science and Bioinformatics**. 
 
 ---
 
