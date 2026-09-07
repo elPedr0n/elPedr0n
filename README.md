@@ -1,33 +1,47 @@
-# El_Pedron 
+<h3 align="center">
+  Pedro Henrique Moreira
+</h3>
 
-**`Digital Architect`**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
-I'm a Computer Science student at **Federal University of Rio Grande do Sul (UFRGS)** building my own view of the world in a digital way. My areas of interests includes **Software Development, Image Processing, Data Science and Bioinformatics**. 
+<p align="center">
+ <b>Digital Architect</b> | Computer Science @ UFRGS
+</p>
 
----
+- I am a Computer Science student at **UFRGS (Federal University of Rio Grande do Sul)**.  
+- Building my own view of the world in a digital way as a **Digital Architect**.  
+- My areas of interest include **Software Development, Image Processing, Machine Learning, and Data Science**. 
+- Competitive Programming enthusiast. 
+- Eager to learn new technologies and apply my knowledge in innovative ways.  
 
-## Languages
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left"alt="React" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452092/react.svg"/>
-<img align="left" alt="C++" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="35px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" />
-<br />
+<br>
 
-## Tools
-<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1920px-Figma-logo.svg.png" />
-<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" />
+## <b>Languages and Tools</b>
 
-<br />
+<div align="center"><br>
+  <img alt="Skills" src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,postgres,git,figma,docker&theme=dark">
+</div>
 
-#
+<br>
 
-If you want to contact me you can do so by
-- <a href="mailto:phmajacinto@inf.ufrgs.br">E-mail</a>
-- <a href="https://www.instagram.com/pedrohenryk_ykn/">Instagram</a>.
-- <a href="https://www.linkedin.com/in/pedro-henrique-moreira-a498783ab/?locale=en"> LinkedIn</a>
+## <b>GitHub Metrics</b>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elPedr0n&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elPedr0n&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Languages Graph" />
+  <img src="https://streak-stats.demolab.com?user=elPedr0n&mode=daily&theme=tokyonight&hide_border=true" height="150" alt="Streak Graph" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<p align="center">Feel free to connect with me!</p>
+
+<div align="center">
+  <a href="mailto:phmajacinto@inf.ufrgs.br" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-moreira-a498783ab/?locale=en" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/pedrohenryk_ykn/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div>
