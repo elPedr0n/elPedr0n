@@ -21,11 +21,7 @@ I'm a Computer Science student at **UFRGS (Federal University of Rio Grande do S
 
 ### Featured Projects
 
-<table> <tr> <td width="50%" valign="top"> <h4><a href="https://github.com/elPedr0n/Halftone-QR-Codes">Halftone QR Codes</a></h4> <p>Final project for a Fundamentals of Image Processing course. Implements the "Halftone QR Codes" paper (Chu et al., 2013) to blend a scannable QR code with an arbitrary image, producing a code that still reads correctly while visually resembling the source picture.</p> <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Image%20Processing-blueviolet?style=flat-square"/> </p> </td> <td width="50%" valign="top">
-
-<h4><a href="https://github.com/elPedr0n/Competitive_Programming">Competitive Programming</a></h4> <p>Ongoing archive of solutions and study notes from Codeforces, Beecrowd, CSES, and university-hosted contests (EIMP, Maratona SBC).
-</p> <p> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Algorithms-orange?style=flat-square"/> </p> </td> </tr> </table>
-
+<table align="center" border="0" cellpadding="10" cellspacing="0"> <tr align="center"> <td width="50%"> <h3 align="center"> Halftone-QR-Codes</h3> <p align="center"> Final project for Fundamentals of Image Processing — blends a scannable QR code with any image, based on the Halftone QR Codes paper (Chu et al., 2013). </p> <p align="center"> <a href="https://github.com/elPedr0n/Halftone-QR-Codes"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"> </a> </p> </td> <td width="50%"> <h3 align="center"> Competitive_Programming</h3> <p align="center"> Archive of solutions and study notes from Codeforces, Beecrowd, CSES, and university contests, organized by algorithmic topic. </p> <p align="center"> <a href="https://github.com/elPedr0n/Competitive_Programming"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"> </a> </p> </td> </tr> </table>
 ---
 
 ### Tech Stack
